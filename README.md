@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm A Sd (송지훈)
+# 👋 Hi, I'm (송지훈)
 ### Backend & Mobile Developer  
 **Java · Spring Boot · MySQL · MyBatis · JPA · React · Flutter**
 
