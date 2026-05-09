@@ -50,10 +50,11 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
 - 즐겨찾기(위시리스트) 기능 완성  
 
 /React/
-🔗 **[GitHub Repository](https://github.com/jihoons1/2025_PJ3_4team_project)**  
+🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.2_-JAVA-React-)**  
 🔗 **[시연 영상](#)**  
 /Flutter/
-🔗 **[GitHub Repository](https://github.com/jihoons1/2025_PJ3_4team_project)**  
+🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.3_-FLutter-)**  
+🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.3_-JAVA-)** 
 🔗 **[시연 영상](#)**  
 
 ---
