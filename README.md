@@ -47,16 +47,19 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
 #### React Web  
 - 지역 생활정보 조회 화면, 카테고리 탐색 UI, API 데이터 연동
 - 실시간 채팅 화면 구현 및 WebSocket 메시지 송수신 연동
-
+  
+🔗 **[기획_시트](https://docs.google.com/spreadsheets/d/1fAnWFftskdy0DmUQKZlqGYLmgP9RJrCvL5GgDKlZNNI/edit?usp=sharing)**  
 🔗 **[MoveOn-Java-React(Repository)](https://github.com/jihoons1/mOveOn1.2_-JAVA-React-)**  
 🔗 **[시연 영상](https://drive.google.com/file/d/1GWiS8-WIdc2-ZyfLAyw4K8qkO-PmoEZG/view?usp=sharing)**  
+
 
 #### Flutter App
 - 모바일 환경에 맞춘 지역 생활정보 화면 구성
 - GPS 기반 현재 위치 확인 기능 구현
 - 즐겨찾기(위시리스트) 기능 완성
 - 회원/비회원 분리 인증(JWT with guestKey)
-
+  
+🔗 **[기획_시트](https://docs.google.com/spreadsheets/d/1YPE4JJ0yPq9wcztbuUw_Z9NFA685buLo-jXvtNtHe20/edit?usp=sharing)**  
 🔗 **[MoveOn-FLutter(Repository)](https://github.com/jihoons1/mOveOn1.3_-FLutter-)**  
 🔗 **[MoveOn-Java(Repository)](https://github.com/jihoons1/mOveOn1.3_-JAVA-)**  
 🔗 **[시연 영상](https://drive.google.com/file/d/1bP2t9gW-LpGfRBXCZcVEU6WNrcYAIYQA/view?usp=sharing)**  
@@ -69,8 +72,9 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
 - 사용자 위치 기반 정육점 가격 비교  
 - 즐겨찾기 + 정렬/필터링  
 - 회원가입/로그인(JWT)  
-
-🔗 **[GitHub Repository](https://github.com/jihoons1/2025_PJ3_4team_project)**
+  
+🔗 **[기획_시트](https://docs.google.com/spreadsheets/d/1DkasuA2cf582ZsWsjgIm8LCOt13cGOy6s99kYl3EMps/edit?usp=sharing)**  
+🔗 **[Best_Beat/Java-JS(Repository)](https://github.com/jihoons1/2025_PJ3_4team_project)**
 🔗 **[시연 영상](https://drive.google.com/file/d/10uyIL0gygc9rGZulRipCtbfIQC50-lU2/view?usp=sharing)**  
 # 🧩 Strength & Values
 
