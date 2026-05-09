@@ -8,8 +8,8 @@
 
 ### 🚀 About Me  
 꾸준히 성장하는 개발자 **송지훈** 입니다.  
-웹/앱 전체 흐름을 이해하며, 인증(JWT), 실시간(WebSocket), 위치 기반 서비스,  
-
+Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter 앱 개발 경험을 함께 쌓아왔습니다.  
+인증(JWT), 실시간 통신(WebSocket), 위치 기반 서비스, API 연동 기능을 구현하며 웹/앱 전체 흐름을 경험했습니다.
 
 “문제를 해결하는 개발자”를 목표로  
 트러블슈팅과 구조 설계에 강점을 두고 있습니다.
@@ -49,7 +49,11 @@
 - 채팅(WebSocket) 실시간 메시징  
 - 즐겨찾기(위시리스트) 기능 완성  
 
-🔗 **[GitHub Repository](#)**  
+/React/
+🔗 **[GitHub Repository](https://github.com/jihoons1/2025_PJ3_4team_project)**  
+🔗 **[시연 영상](#)**  
+/Flutter/
+🔗 **[GitHub Repository](https://github.com/jihoons1/2025_PJ3_4team_project)**  
 🔗 **[시연 영상](#)**  
 
 ---
@@ -61,20 +65,7 @@
 - 즐겨찾기 + 정렬/필터링  
 - 회원가입/로그인(JWT)  
 
-🔗 **[GitHub Repository](#)**
-
----
-
-### 💬 **BulkBuyGroup — 실시간 소분모임 시스템**  
-> WebSocket · Stomp · ChatRoom · ConcurrentHashMap
-
-- 방 단위 실시간 채팅  
-- 방장 퇴장 시 Read-Only 자동 전환  
-- 동시성 이슈 해결(ConcurrentHashMap 적용)
-
-🔗 **[GitHub Repository](#)**
-
----
+🔗 **[GitHub Repository](https://github.com/jihoons1/2025_PJ3_4team_project)**
 
 # 🧩 Strength & Values
 
