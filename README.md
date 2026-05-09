@@ -42,22 +42,23 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
 # 🌈 Projects (대표 프로젝트)
 
 ### 🏘 **MoveOn — 지역 생활 정착 플랫폼 (Web+App)**  
-> Spring Boot API · Flutter App · JWT(회원/게스트) · Kakao Map · WebSocket
+> Spring Boot API · Flutter App · JWT(회원/게스트) · Kakao Map · WebSocket  
 
-- 주소 기반 주변 탐색 / GPS / 카테고리 설정  
-- 회원/비회원 분리 인증(JWT with guestKey)  
-- 채팅(WebSocket) 실시간 메시징  
-- 즐겨찾기(위시리스트) 기능 완성  
+#### React Web  
+- 지역 생활정보 조회 화면, 카테고리 탐색 UI, API 데이터 연동
+- 실시간 채팅 화면 구현 및 WebSocket 메시지 송수신 연동
 
-/React/  
-
-🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.2_-JAVA-React-)**  
+🔗 **[MoveOn-Java-React(Repository)](https://github.com/jihoons1/mOveOn1.2_-JAVA-React-)**  
 🔗 **[시연 영상](https://drive.google.com/file/d/1GWiS8-WIdc2-ZyfLAyw4K8qkO-PmoEZG/view?usp=sharing)**  
 
-/Flutter/  
+#### Flutter App
+- 모바일 환경에 맞춘 지역 생활정보 화면 구성
+- GPS 기반 현재 위치 확인 기능 구현
+- 즐겨찾기(위시리스트) 기능 완성
+- 회원/비회원 분리 인증(JWT with guestKey)
 
-🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.3_-FLutter-)**  
-🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.3_-JAVA-)**  
+🔗 **[MoveOn-FLutter(Repository)](https://github.com/jihoons1/mOveOn1.3_-FLutter-)**  
+🔗 **[MoveOn-Java(Repository)](https://github.com/jihoons1/mOveOn1.3_-JAVA-)**  
 🔗 **[시연 영상](https://drive.google.com/file/d/1bP2t9gW-LpGfRBXCZcVEU6WNrcYAIYQA/view?usp=sharing)**  
 
 ---
