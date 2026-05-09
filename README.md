@@ -50,7 +50,7 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
   
 🔗 **[기획_시트](https://docs.google.com/spreadsheets/d/1fAnWFftskdy0DmUQKZlqGYLmgP9RJrCvL5GgDKlZNNI/edit?usp=sharing)**  
 🔗 **[MoveOn-Java-React(Repository)](https://github.com/jihoons1/mOveOn1.2_-JAVA-React-)**  
-🔗 **[시연 영상](https://drive.google.com/file/d/1GWiS8-WIdc2-ZyfLAyw4K8qkO-PmoEZG/view?usp=sharing)**  
+🔗 **[시연 영상](https://drive.google.com/file/d/14FuSAzr9jdeMif4oyEv6MAGCo_s6fpj_/view?usp=sharing)**  
 
 
 #### Flutter App
