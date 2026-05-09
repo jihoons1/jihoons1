@@ -74,7 +74,7 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
 - 회원가입/로그인(JWT)  
   
 🔗 **[기획_시트](https://docs.google.com/spreadsheets/d/1DkasuA2cf582ZsWsjgIm8LCOt13cGOy6s99kYl3EMps/edit?usp=sharing)**  
-🔗 **[Best_Beat/Java-JS(Repository)](https://github.com/jihoons1/2025_PJ3_4team_project)**
+🔗 **[Best_Beat/Java-JS(Repository)](https://github.com/jihoons1/2025_PJ3_4team_project)**  
 🔗 **[시연 영상](https://drive.google.com/file/d/10uyIL0gygc9rGZulRipCtbfIQC50-lU2/view?usp=sharing)**  
 # 🧩 Strength & Values
 
