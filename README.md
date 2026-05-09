@@ -51,11 +51,11 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
 
 /React/
 🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.2_-JAVA-React-)**  
-🔗 **[시연 영상](#)**  
+🔗 **[시연 영상](https://drive.google.com/file/d/1GWiS8-WIdc2-ZyfLAyw4K8qkO-PmoEZG/view?usp=sharing)**  
 /Flutter/
 🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.3_-FLutter-)**  
 🔗 **[GitHub Repository](https://github.com/jihoons1/mOveOn1.3_-JAVA-)** 
-🔗 **[시연 영상](#)**  
+🔗 **[시연 영상](https://drive.google.com/file/d/1bP2t9gW-LpGfRBXCZcVEU6WNrcYAIYQA/view?usp=sharing)**  
 
 ---
 
@@ -67,7 +67,7 @@ Java/Spring Boot 기반 백엔드 개발을 중심으로, React 웹과 Flutter �
 - 회원가입/로그인(JWT)  
 
 🔗 **[GitHub Repository](https://github.com/jihoons1/2025_PJ3_4team_project)**
-
+🔗 **[시연 영상](https://drive.google.com/file/d/10uyIL0gygc9rGZulRipCtbfIQC50-lU2/view?usp=sharing)**  
 # 🧩 Strength & Values
 
 ### 🔥 **문제 해결 중심 개발자**
